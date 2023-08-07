@@ -11,8 +11,6 @@ Welcome to the README for the To-Do List Project. This project involves creating
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -24,7 +22,7 @@ Welcome to the README for the To-Do List Project. This project involves creating
 
 ## Demo
 
-Explore the live demo of the To-Do List Project [here](https://your-todo-demo-link.com).
+Explore the live demo of the To-Do List Project [here](http://127.0.0.1:5500/index.html).
 
 ## Getting Started
 
